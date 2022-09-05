@@ -47,9 +47,10 @@ The pattern of reporting food recalls has changed overtime. For example, from 20
 ## Results
 
 ### Part I
-A total of 4680 recall links were scrapped.
+A total of 4680 recall links were scrapped. Saved in `recalls-links-2022.csv`
+
 ### Part II
-A total of 4680 recall details were scrapped.
+A total of 4680 recall details were scrapped. Save in `recalls-p-2022-2021, recalls-2021, recalls-2020, recalls-2019, recalls-2018, recalls-2017, recalls-2016, recalls-2015, recalls-2014, recalls-2013, recalls-2012, recalls-2011`
 
 ## Next Steps
 Clean and analyze the recalls extracted. See [Part III and Part IV](https://github.com/aleivaar94/Part-III-Part-IV-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts) of this project.
