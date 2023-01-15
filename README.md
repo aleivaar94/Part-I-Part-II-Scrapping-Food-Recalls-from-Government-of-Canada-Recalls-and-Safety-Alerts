@@ -1,3 +1,4 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 # Scrapping Food Recalls from Government of Canada Recalls and Safety Alerts - Part I and Part II
 
@@ -47,9 +48,10 @@ The pattern of reporting food recalls has changed overtime. For example, from 20
 ## Results
 
 ### Part I
-A total of 4680 recall links were scrapped.
+A total of 4680 recall links were scrapped. Saved in `recalls-links-2022.csv`
+
 ### Part II
-A total of 4680 recall details were scrapped.
+A total of 4680 recall details were scrapped. Save in `recalls-p-2022-2021, recalls-2021, recalls-2020, recalls-2019, recalls-2018, recalls-2017, recalls-2016, recalls-2015, recalls-2014, recalls-2013, recalls-2012, recalls-2011`
 
 ## Next Steps
 Clean and analyze the recalls extracted. See [Part III and Part IV](https://github.com/aleivaar94/Part-III-Part-IV-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts) of this project.
@@ -62,7 +64,3 @@ Follow the jupyter notebooks in the order below:
     
     1. Part-I-extracting-recall-links-BS4-Selenium.ipynb
     2. Part-II-extracting-recall-details-BS4-Selenium.ipynb
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alejandroleiva.notion.site/Data-Portfolio-5c5257235e044c6b9a8846131edac973)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ale-leivaar/)
