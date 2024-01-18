@@ -11,7 +11,7 @@ In this project, I extract food recalls from 2022 to 2011 from the Government of
 <sub><sup>To learn more about CFIA's food recall system, click [here](https://inspection.canada.ca/food-safety-for-consumers/canada-s-food-safety-system/how-we-decide-to-recall-a-food-product/eng/1332206599275/1332207914673).</sup></sub>
 
 ## Demo
-![demo](https://github.com/aleivaar94/images-projects/blob/master/extracting-recalls-links.gif)
+![demo](https://github.com/aleivaar94/Part-I-Part-II-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts/assets/blob/master/extracting-recalls-links.gif)
 
 
 
@@ -28,7 +28,7 @@ I used Selenium and Beautiful Soup to parse the html page to extract:
 
 Each element is stored as a list and then put together as a Dataframe using pandas and exported in a csv file.
 
-![df](https://github.com/aleivaar94/images-projects/blob/master/part-1-recall-links-dataframe.png)
+![df](https://github.com/aleivaar94/Part-I-Part-II-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts/assets/blob/master/part-1-recall-links-dataframe.png)
 
 ### Part II
 
@@ -38,12 +38,12 @@ The pattern of reporting food recalls has changed overtime. For example, from 20
 
 | From 2022-08-24 | To 2021-10-21 |
 | :- | -: |
-| ![image](https://github.com/aleivaar94/images-projects/blob/master/part-2-recall-pattern-1.png) | ![image](https://github.com/aleivaar94/images-projects/blob/master/part-2-recall-pattern-2.png) |
+| ![image](https://github.com/aleivaar94/Part-I-Part-II-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts/assetss/blob/master/part-2-recall-pattern-1.png) | ![image](https://github.com/aleivaar94/Part-I-Part-II-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts/assets/blob/master/part-2-recall-pattern-2.png) |
 
 
 | From 2021-10-15 | To 2011-01-04 |
 | :- | -: |
-| ![image](https://github.com/aleivaar94/images-projects/blob/master/part-2-recall-pattern-3.png) | ![image](https://github.com/aleivaar94/images-projects/blob/master/part-2-recall-pattern-4.png) |
+| ![image]https://github.com/aleivaar94/Part-I-Part-II-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts/assets/blob/master/part-2-recall-pattern-3.png) | ![image](https://github.com/aleivaar94/Part-I-Part-II-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts/assets/blob/master/part-2-recall-pattern-4.png) |
 
 ## Results
 
